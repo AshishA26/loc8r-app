@@ -6,3 +6,8 @@
      git init
      git add --all
      git commit -m "First commit
+### Accessing heroku
+    heroku login
+    heroku local
+    heroku create
+    git push heroku master
